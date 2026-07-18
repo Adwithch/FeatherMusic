@@ -107,7 +107,6 @@ Full transparency: **FeatherMusic was built using AI assistance ("vibe coding")*
 [![Instagram](https://img.shields.io/badge/Instagram-@a.dwith-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/a.dwith)
 [![GitHub](https://img.shields.io/badge/GitHub-adwithch-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/adwithch)
 
-Built under **Ratics Entertainment**.
 
 ---
 
